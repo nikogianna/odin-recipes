@@ -1,0 +1,45 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align: center;
+    background-color: grey;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+}
+
+
+.description {
+    background-color: rgb(216, 221, 204);
+    text-align: center;
+    margin-top: 1em;
+    padding: 1em;
+    border: 2px solid black;
+}
+
+ul,ol{
+    text-align: left;
+    display: inline-block;
+}
+
+h1 {
+    border: 2px solid black;
+    background-color: rgb(223, 193, 240);
+    color: rgb(10, 118, 234);
+}
+
+.links {
+    background-color: rgb(216, 221, 204);
+    border: 2px solid black;
+    color: rgb(10, 118, 234);
+}
+
+.ingredients {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.instructions {
+    color: white;
+}
